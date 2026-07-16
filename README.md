@@ -25,23 +25,24 @@
 <table width="100%">
   <tr>
     <td width="65%" valign="top">
-      <h3>Hi there! I'm Dheeraj</h3>
-      <p>I’m a B.Tech Computer Science & Design (CSD) student at CMRCET and the <b>Vice President for Street Cause CMRCET</b> (a student-run NGO). I am a passionate learner, coder, and designer who loves building innovative software and hardware projects.</p>
-      <p>My expertise spans <b>IoT & Robotics</b>, <b>Python development</b>, and <b>graphic design/art</b>. I am a 3X hackathon winner and enjoy building solutions that connect physical systems with elegant software design.</p>
+      <h3>Hi there! I'm Dheeraj Pusuluri</h3>
+      <p>I'm a B.Tech Computer Science (Data Science) student at CMR College of Engineering & Technology (CMRCET). I currently serve as the Marketing & Communications Lead for HackerRank at our college and am the former Vice President of Street Cause CMRCET, a student-run NGO.</p>
+      <p>I'm a passionate learner, developer, and designer who loves building innovative software and hardware projects.</p>
+      <p>My expertise spans Python development, IoT & Robotics, and graphic design. I'm a 3-time hackathon winner who enjoys creating solutions that seamlessly connect intelligent hardware with elegant software.</p>
       <h4>What I Do</h4>
       <ul>
-        <li><b>IoT & Robotics</b> – Build smart connected devices (robotic dog, drone systems).</li>
-        <li><b>Software Development</b> – Develop applications using Python, React, and Java.</li>
-        <li><b>Design & Art</b> – Create visual assets, UI layouts, and digital/traditional art.</li>
+        <li><b>Software Development</b> – Build applications using Python, React, and Java.</li>
+        <li><b>IoT & Robotics</b> – Develop smart connected systems, including robotic dogs and drone-based solutions.</li>
+        <li><b>Design & Art</b> – Create visual assets, intuitive UI layouts, and both digital and traditional artwork.</li>
       </ul>
     </td>
     <td width="35%" align="center" valign="middle">
       <img src="about.jpg" alt="Dheeraj Pusuluri" width="250" />
       <br><br>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=C8A96E&center=true&vCenter=true&width=250&lines=IoT+%26+Robotics;Software+Developer;Graphic+Designer;3X+Hackathon+Winner">
-        <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=8B7340&center=true&vCenter=true&width=250&lines=IoT+%26+Robotics;Software+Developer;Graphic+Designer;3X+Hackathon+Winner">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=8B7340&center=true&vCenter=true&width=250&lines=IoT+%26+Robotics;Software+Developer;Graphic+Designer;3X+Hackathon+Winner" alt="Typing SVG" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=C8A96E&center=true&vCenter=true&width=250&lines=HackerRank+Lead;3X+Hackathon+Winner;IoT+%26+Robotics;Full-Stack+Developer">
+        <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=8B7340&center=true&vCenter=true&width=250&lines=HackerRank+Lead;3X+Hackathon+Winner;IoT+%26+Robotics;Full-Stack+Developer">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=8B7340&center=true&vCenter=true&width=250&lines=HackerRank+Lead;3X+Hackathon+Winner;IoT+%26+Robotics;Full-Stack+Developer" alt="Typing SVG" />
       </picture>
     </td>
   </tr>
@@ -51,23 +52,23 @@
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center">
-      VP at <kbd>Street Cause CMRCET</kbd> (NGO)
+      <kbd>HackerRank</kbd> Marketing & Communications Lead
     </td>
     <td width="50%" align="center">
-      GPA <kbd>8.21/10</kbd> at CMRCET
+      <kbd>3×</kbd> Hackathon Winner
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <kbd>3×</kbd> Hackathon Winner
+      GPA <kbd>8.21/10</kbd> at CMRCET
     </td>
     <td width="50%" align="center">
-      Mentored <kbd>50+</kbd> students in IoT
+      Former VP of <kbd>Street Cause CMRCET</kbd> (NGO)
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <b>Main Coordinator</b> for a Nationwide Hackathon & Lead of <kbd>100+</kbd> NGO volunteers
+      <b>Main Coordinator</b> for a Nationwide Hackathon
     </td>
   </tr>
 </table>
@@ -76,11 +77,11 @@
 <table align="center" width="100%">
   <tr>
     <td width="30%" align="right"><b>Currently focusing on:</b></td>
-    <td width="70%">IoT Security, Autonomous Drone Navigation & advanced CAD prototyping</td>
+    <td width="70%">Full-stack Web Architecture, cloud deployment, and scalable codebase development</td>
   </tr>
   <tr>
     <td width="30%" align="right"><b>Looking to collaborate on:</b></td>
-    <td width="70%">Open-source hardware/software integration & robotics initiatives</td>
+    <td width="70%">Full-stack developer opportunities, general coding/software engineering, and IoT & Robotics (last preference)</td>
   </tr>
 </table>
 
@@ -121,6 +122,7 @@
       <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
       <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
       <br>
+      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
       <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
     </td>
@@ -139,6 +141,11 @@
       <b>Hardware, IoT & Libraries</b><br><br>
       <img src="https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=Arduino&logoColor=white" />
       <img src="https://img.shields.io/badge/Raspberry_Pi-000000?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
+      <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" />
+      <img src="https://img.shields.io/badge/MQTT-000000?style=for-the-badge&logo=mqtt&logoColor=white" />
+      <br>
+      <img src="https://img.shields.io/badge/ECC-000000?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=security&logoColor=white" />
       <img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=white" />
       <img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=white" />
     </td>
@@ -160,6 +167,9 @@
       <img src="https://img.shields.io/badge/IoT_Security-000000?style=for-the-badge" />
       <img src="https://img.shields.io/badge/PKI_Certificates-000000?style=for-the-badge" />
       <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+      <img src="https://img.shields.io/badge/MQTT-000000?style=for-the-badge&logo=mqtt&logoColor=white" />
+      <img src="https://img.shields.io/badge/ECC-000000?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Patented-000000?style=for-the-badge" />
     </td>
     <td width="50%" valign="top" align="center">
       <h3>ClassCom</h3>
@@ -168,6 +178,7 @@
       <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js" />
       <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/210%2B_Users-000000?style=for-the-badge" />
     </td>
   </tr>
   <tr>
@@ -178,6 +189,7 @@
       <img src="https://img.shields.io/badge/Autonomous_Drones-000000?style=for-the-badge" />
       <img src="https://img.shields.io/badge/Disaster_Response-000000?style=for-the-badge" />
       <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Computer_Vision-000000?style=for-the-badge" />
     </td>
     <td width="50%" valign="top" align="center">
       <h3>Arogya Drishti</h3>
@@ -185,6 +197,7 @@
       <blockquote><i>End‑to‑end platform built with IoT security and patient data integrity at its core.</i></blockquote><br>
       <img src="https://img.shields.io/badge/HealthTech_IoT-000000?style=for-the-badge" />
       <img src="https://img.shields.io/badge/Secure_by_Design-000000?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Management-000000?style=for-the-badge" />
       <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase" />
     </td>
   </tr>
@@ -192,11 +205,12 @@
     <td colspan="2" valign="top" align="center">
       <h3>TechPaw</h3>
       <b>Quadrupedal Robo Dog</b><br>
-      <blockquote><i>A quadrupedal robotic platform built to explore autonomous traversal, remote sensor payload delivery, and human-robot interaction.</i></blockquote><br>
+      <blockquote><i>A quadrupedal robotic platform built to explore autonomous traversal, remote sensor payload delivery, and human-robot interaction research.</i></blockquote><br>
       <img src="https://img.shields.io/badge/Robotics-000000?style=for-the-badge" />
       <img src="https://img.shields.io/badge/IoT-000000?style=for-the-badge" />
       <img src="https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=Arduino" />
       <img src="https://img.shields.io/badge/Raspberry_Pi-000000?style=for-the-badge&logo=raspberry-pi" />
+      <img src="https://img.shields.io/badge/HRI_Research-000000?style=for-the-badge" />
     </td>
   </tr>
 </table>

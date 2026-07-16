@@ -81,7 +81,7 @@
   </tr>
   <tr>
     <td width="30%" align="right"><b>Looking to collaborate on:</b></td>
-    <td width="70%">Full-stack developer opportunities, general coding/software engineering, and IoT & Robotics (last preference)</td>
+    <td width="70%">Full-stack developer opportunities, general coding/software engineering, and IoT & Robotics</td>
   </tr>
 </table>
 
